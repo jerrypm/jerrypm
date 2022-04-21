@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jerrypm
+👋 Hi, I’m @jerrypm
 - 👀 I’m interested in Progammming
 - 📫 How to reach me ... here
 
