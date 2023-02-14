@@ -18,8 +18,8 @@ Medium: https://21zerixpm.medium.com/
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
 
 <td colspan="2" rowspan="2">
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=aheze&langs_count=8&layout=compact&hide_border=true&title_color=FF5600">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aheze&langs_count=8&layout=compact&hide_border=true&title_color=FF5600">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jerrypm&langs_count=8&layout=compact&hide_border=true&title_color=FF5600">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerrypm&langs_count=8&layout=compact&hide_border=true&title_color=FF5600">
 </a>
 </td>
 
