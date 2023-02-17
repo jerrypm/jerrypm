@@ -5,8 +5,8 @@
 - 👀 I’m interested in Progammming <br/>
 - 📫 How to reach me ... here
 
-Medium: https://21zerixpm.medium.com/
-Portfolio: https://codecanyon.net/item/news-feed-app-using-swiftui/43068768
+* Medium: https://21zerixpm.medium.com/
+* Portfolio: https://codecanyon.net/item/news-feed-app-using-swiftui/43068768
 <br/>
 
 <a href="https://www.linkedin.com/in/jeri-purnama-maulid-146b5b109/">
