@@ -6,8 +6,6 @@
 - 📫 How to reach me ... here
 
 Medium: https://21zerixpm.medium.com/
-<br/>
-
 Portfolio: https://codecanyon.net/item/news-feed-app-using-swiftui/43068768
 <br/>
 
