@@ -18,6 +18,7 @@
 </a>
 
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-25B1FA?style=for-the-badge&logo=flutter&logoColor=white" />
 
 <td colspan="2" rowspan="2">
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jerrypm&langs_count=8&layout=compact&hide_border=true&title_color=FF5600">
