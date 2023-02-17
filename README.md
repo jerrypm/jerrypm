@@ -8,6 +8,9 @@
 Medium: https://21zerixpm.medium.com/
 <br/>
 
+Portfolio: https://codecanyon.net/item/news-feed-app-using-swiftui/43068768
+<br/>
+
 <a href="https://www.linkedin.com/in/jeri-purnama-maulid-146b5b109/">
   <img align="left" alt="Fabian Jerry's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
