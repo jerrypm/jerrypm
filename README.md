@@ -7,7 +7,7 @@
 <br/><br/>
 - Medium: https://21zerixpm.medium.com/
 <br/>
-- Portfolio: https://codecanyon.net/item/news-feed-app-using-swiftui/43068768
+- Portfolio: https://codecanyon.net/user/21zerixpm/portfolio
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/jeri-purnama-maulid-146b5b109/">
