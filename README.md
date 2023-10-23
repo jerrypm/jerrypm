@@ -6,12 +6,12 @@
 - 📫 How to reach me ... here
 <br/><br/>
 <h3 align='left'>
-- Medium: 
+Medium: 
 </h3>
 &nbsp;  - https://21zerixpm.medium.com/
 <br/>
 <h3 align='left'>
-- Portfolio: 
+Portfolio: 
 </h3>
  &#160;  1. code canyon = https://codecanyon.net/user/21zerixpm/portfolio
 <br/>
