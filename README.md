@@ -5,9 +5,18 @@
 - 👀 I’m interested in Progammming <br/>
 - 📫 How to reach me ... here
 <br/><br/>
-- Medium: https://21zerixpm.medium.com/
+<h3 align='left'>
+- Medium: 
+</h3>
+&nbsp;  - https://21zerixpm.medium.com/
 <br/>
-- Portfolio: https://codecanyon.net/user/21zerixpm/portfolio
+<h3 align='left'>
+- Portfolio: 
+</h3>
+ &#160;  1. code canyon = https://codecanyon.net/user/21zerixpm/portfolio
+<br/>
+&nbsp;  2. Play store = https://play.google.com/store/apps/details?id=com.jerrypurndev.cashier_mate&pli=1
+
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/jeri-purnama-maulid-146b5b109/">
